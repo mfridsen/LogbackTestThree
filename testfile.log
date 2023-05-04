@@ -1,0 +1,9 @@
+2023-05-04 16:48:25.954 [main] DEBUG LogbackTestThree - Debug message.
+2023-05-04 16:48:25.957 [main] INFO  LogbackTestThree - Info message.
+2023-05-04 16:48:25.957 [main] WARN  LogbackTestThree - Warning message.
+2023-05-04 16:48:25.957 [main] ERROR LogbackTestThree - Error message.
+2023-05-04 16:53:03.972 [main] TRACE LogbackTestThree - Trace message.
+2023-05-04 16:53:03.974 [main] DEBUG LogbackTestThree - Debug message.
+2023-05-04 16:53:03.974 [main] INFO  LogbackTestThree - Info message.
+2023-05-04 16:53:03.974 [main] WARN  LogbackTestThree - Warning message.
+2023-05-04 16:53:03.974 [main] ERROR LogbackTestThree - Error message.
